@@ -154,12 +154,13 @@ The command is where you tell them what the audience should do:
 
 ## Figure/Visual Element
 
-The visual element is highest-value element of the assignment. You will create a visual element that 
+The visual element is highest-value element of the assignment. You will create a visual element that both supplements your document and conveys information more effectively than just text.
 
-Requirements:
+### Requirements
 
 - Create using a tool (e.g., Canva) **or** directly in Word (Insert → Shapes)
 - If borrowing data, include a **source line** under the image and in References.
+- **You cannot borrow an entire figure, only images and content that help make up the figure**.
 
 - Integrate the figure into the document (see textbook Chapter 12)
 - Format the figure title so it:
@@ -167,7 +168,7 @@ Requirements:
 - Has no spacing after
 - Stays on the same page as the image
 
-Usefulness:
+### Usefulness
 
 - The visual element should **not** be a summary of the document's content, which does not add value.
 - It should provide an explanation for something in a better format than pure text:
