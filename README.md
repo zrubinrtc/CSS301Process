@@ -209,9 +209,9 @@ Your interviewee likely gave you some tips or advice for appearing more comeptit
 
 While you aren't required to use your informational interview, you will lose points on both this paper and the Problem & Solution paper if neither use your informational interview.
 
-The information interview should be cited using a footnote and a reference section [^1].
+The information interview should be cited either using footnotes or a references section [^1].
 
-[^1] Rubin, Zak. Personal interview. 26 January 2026.
+[^1]: Rubin, Zak. Personal interview. 26 January 2026.
 
 ---
 
